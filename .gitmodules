@@ -1,0 +1,6 @@
+[submodule "PC1-app1"]
+	path = PC1-app1
+	url = https://github.com/Aushzlten12/PracticaCalificada1part1-CC3S2
+[submodule "PC1-app2"]
+	path = PC1-app2
+	url = https://github.com/Aushzlten12/PracticaCalificada1part2-CC3S2
