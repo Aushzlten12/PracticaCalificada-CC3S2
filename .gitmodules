@@ -4,9 +4,9 @@
 [submodule "PC1-app2"]
 	path = PC1-app2
 	url = https://github.com/Aushzlten12/PracticaCalificada1part2-CC3S2
-[submodule "Http-Uri"]
-	path = Http-Uri
-	url = https://github.com/Aushzlten12/Http-Uri
 [submodule "HolaRuby"]
 	path = HolaRuby
 	url = https://github.com/Aushzlten12/HolaRuby
+[submodule "ActividadJUnitRspec"]
+	path = ActividadJUnitRspec
+	url = https://github.com/Aushzlten12/CC3S2
