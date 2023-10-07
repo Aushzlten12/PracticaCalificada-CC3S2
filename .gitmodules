@@ -10,3 +10,6 @@
 [submodule "ActividadJUnitRspec"]
 	path = ActividadJUnitRspec
 	url = https://github.com/Aushzlten12/CC3S2
+[submodule "app1-windows"]
+	path = app1-windows
+	url = https://github.com/McBikan/PC1Software
